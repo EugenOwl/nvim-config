@@ -90,6 +90,8 @@ set number
 set expandtab
 set tabstop=4
 set background=dark
+set colorcolumn=120                                                                                                     
+highlight ColorColumn ctermbg=8 guibg=grey
 
 let g:mapleader=','
 
